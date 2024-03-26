@@ -1,1 +1,2 @@
 Ya ne hochu delat' EVM
+;lds;fl;slf
